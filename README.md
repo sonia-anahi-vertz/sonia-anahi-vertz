@@ -9,7 +9,6 @@ Me interesa el desarrollo de aplicaciones web, la programación backend, las bas
 
 Busco continuar ampliando mis conocimientos mediante proyectos individuales y colaborativos, aplicando buenas prácticas de programación y control de versiones.
 
-## Tecnologías y herramientas
 
 
 ## Actualmente trabajando en
@@ -19,6 +18,7 @@ Busco continuar ampliando mis conocimientos mediante proyectos individuales y co
 - Desarrollo de componentes reutilizables y rutas dinámicas.
 - Trabajo colaborativo mediante Git y GitHub.
 
+## Tecnologías y herramientas
 
 ### Lenguajes de programación
 
