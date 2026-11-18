@@ -90,7 +90,7 @@ Diseño y desarrollo de un sitio web como proyecto final, aplicando conocimiento
 
 [Ver repositorio](https://github.com/solvertz/Taller-santomil-entrega-final)
 
-Este proyectos se encuentran alojados en mi anterior cuenta de GitHub.
+Este proyecto se encuentra alojado en mi anterior cuenta de GitHub.
 
 [Ver perfil anterior — solvertz](https://github.com/solvertz)
 
