@@ -11,6 +11,15 @@ Busco continuar ampliando mis conocimientos mediante proyectos individuales y co
 
 ## Tecnologías y herramientas
 
+
+## Actualmente trabajando en
+
+- Desarrollo colaborativo de un sitio web profesional para un espacio de psicología integral.
+- Aplicación de tecnologías como Astro, TypeScript y Tailwind CSS.
+- Desarrollo de componentes reutilizables y rutas dinámicas.
+- Trabajo colaborativo mediante Git y GitHub.
+
+
 ### Lenguajes de programación
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
