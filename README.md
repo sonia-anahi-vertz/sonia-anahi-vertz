@@ -71,17 +71,17 @@ Repositorio privado por tratarse de un proyecto colaborativo.
 
 ## Proyectos anteriores
 
-Durante mis primeras etapas de formación desarrollé diferentes proyectos relacionados con el desarrollo web, frontend y backend.
+### Taller Santomil
 
-| Proyecto | Área | Año |
-| --- | --- | --- |
-| [Taller Santomil](https://github.com/solvertz/Taller-santomil-entrega-final) | Desarrollo web | 2022 |
-| [Bootstrap](https://github.com/solvertz/bootstrap-sonia-vertz) | Frontend | 2022 |
-| [React Pet](https://github.com/solvertz/react-pet) | React | 2023 |
-| [Backend 69960](https://github.com/solvertz/back-69960) | Backend JavaScript | 2024 |
-| [Backend 70100](https://github.com/solvertz/70100Back2) | Backend JavaScript | 2024 |
+Proyecto de desarrollo web realizado durante mi formación en 2022.
 
-Estos proyectos se encuentran alojados en mi anterior cuenta de GitHub.
+Diseño y desarrollo de un sitio web como proyecto final, aplicando conocimientos de desarrollo frontend.
+
+**Área:** Desarrollo web.
+
+[Ver repositorio](https://github.com/solvertz/Taller-santomil-entrega-final)
+
+Este proyectos se encuentran alojados en mi anterior cuenta de GitHub.
 
 [Ver perfil anterior — solvertz](https://github.com/solvertz)
 
