@@ -23,6 +23,7 @@ Busco continuar ampliando mis conocimientos mediante proyectos individuales y co
 ### Lenguajes de programación
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -78,6 +79,26 @@ Mis principales contribuciones:
 **Tecnologías:** C#, ASP.NET Core MVC, PostgreSQL, Razor, JavaScript y Bootstrap.
 
 Repositorio privado por tratarse de un proyecto colaborativo.
+
+## Formación complementaria
+
+- Curso de Python – Talento Tech (2026).
+- Desarrollo de aplicaciones con Python y SQLite.
+- Programación modular, operaciones CRUD y persistencia de datos.
+
+## Proyectos destacados
+
+### 📦 Sistema de Gestión de Inventario
+
+Aplicación de consola desarrollada en Python y SQLite
+como proyecto final del curso de Python de Talento Tech.
+
+Permite administrar productos, realizar búsquedas,
+actualizar registros y generar reportes de bajo stock.
+
+**Tecnologías:** Python, SQLite, Git y GitHub.
+
+[Ver repositorio](https://github.com/sonia-anahi-vertz/sistema-inventario-python)
 
 ## Proyectos anteriores
 
