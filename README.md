@@ -80,12 +80,6 @@ Mis principales contribuciones:
 
 Repositorio privado por tratarse de un proyecto colaborativo.
 
-## Formación complementaria
-
-- Curso de Python – Talento Tech (2026).
-- Desarrollo de aplicaciones con Python y SQLite.
-- Programación modular, operaciones CRUD y persistencia de datos.
-
 ## Proyectos destacados
 
 ### 📦 Sistema de Gestión de Inventario
