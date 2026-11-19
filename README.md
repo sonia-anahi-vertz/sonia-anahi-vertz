@@ -80,7 +80,7 @@ Mis principales contribuciones:
 
 Repositorio privado por tratarse de un proyecto colaborativo.
 
-## Proyectos destacados
+
 
 ### 📦 Sistema de Gestión de Inventario
 
